@@ -1,8 +1,10 @@
+# main.py
+
 from utils import login, register_user
 
 def main():
     while True:
-        print("====== LOGIN SYSTEM ======")
+        print("\n====== LOGIN SYSTEM ======")
         print("1. Login")
         print("2. Register")
         print("3. Exit")
@@ -16,12 +18,11 @@ def main():
             register_user()
 
         elif choice == "3":
-            print("Exiting the program")
+            print("Exiting program...")
             break
 
         else:
             print("Invalid option. Try again.\n")
-
 
 
 if __name__ == "__main__":
