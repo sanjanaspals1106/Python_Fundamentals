@@ -19,4 +19,3 @@ A simple CLI-based library system built entirely using **Object-Oriented Program
 - **Inheritance** (`EBook` → `Book`)
 - **Method Overriding**
 
-## 📁 Project Structure
