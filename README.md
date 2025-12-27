@@ -9,11 +9,25 @@ The focus is on **strong fundamentals, problem-solving, clean structure, and pra
 
 Python_Fundamentals/
 ├── numpy/
+│   └── notebooks and practice files for NumPy fundamentals
+│
 ├── pandas_practice/
+│   └── data analysis notebooks using Pandas
+│
 ├── matplotlib/
+│   └── core data visualization practice using Matplotlib
+│
 ├── mini-projects/
+│   ├── expense-tracker/
+│   ├── library-book-rental-system/
+│   ├── login-system/
+│   ├── marks-manager/
+│   ├── notes_manager/
+│   └── text-utilities/
+│
 ├── README.md
 └── LICENSE
+
 
 
 ---
